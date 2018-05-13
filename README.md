@@ -7,4 +7,5 @@
 [![GitHub forks](https://img.shields.io/github/forks/hishamkaram/palinagram.svg)](https://github.com/hishamkaram/palinagram/network)
 [![GitHub stars](https://img.shields.io/github/stars/hishamkaram/palinagram.svg)](https://github.com/hishamkaram/palinagram/stargazers)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/hishamkaram/palinagram/edit/master/README.md.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fhishamkaram%2Fgeoserver%2Fedit%2Fmaster%2FREADME.md)
-# palinagram
+# Palinagram
+Palinagram is a Go package to check if string is Palindrome(numbers supported)/Anagram
